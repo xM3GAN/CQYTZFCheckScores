@@ -1,4 +1,4 @@
-# 重庆移通学院教务系统成绩自动推送
+# 重庆移通学院正方教务系统成绩自动推送
 
 > 基于 [NianBroken/ZFCheckScores](https://github.com/NianBroken/ZFCheckScores) 修改，适配重庆移通学院 **CAS 统一身份认证 + WebVPN + 正方教务系统** 的完整链路。
 
